@@ -1,0 +1,144 @@
+/* Custom Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background-color: white;
+}
+.navbar-brand {
+  font-weight: bold;
+  color: #333;
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 2.20rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+.slider {
+  height: 400px; /* Adjust height as needed */
+
+  /* Additional slider styles */
+}
+.booking {
+  padding: 50px 0;
+
+  /* Additional booking area styles */
+}
+.tourism {
+  padding: 50px 0;
+ 
+  /* Additional tourism content styles */
+}
+footer {
+  background-color: #333;
+  padding: 20px 0;
+  color: #fff;
+  /* Additional footer styles */
+}
+
+.booking {
+
+padding: 50px 0;
+}
+
+.container {
+max-width: 900px;
+margin: 0 auto;
+text-align: center;
+}
+
+h2 {
+margin-bottom: 30px;
+}
+
+form {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.form-group {
+margin: 10px;
+}
+
+label {
+display: block;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+width: 100%;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+select {
+width: 100%;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+appearance: none;
+}
+
+textarea {
+height: 150px;
+}
+
+button[type="submit"] {
+padding: 10px 20px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+button[type="submit"]:hover {
+background-color: #555;
+}
+img.tg {
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  height: 330px;
+  border-radius: 36px;
+}
+.text-primary{
+  background: #007bff!important;
+}
+
+.rounded-circle {
+    vertical-align: middle;
+    border-style: none;
+    height: 197px;
+}
+
+a.btn.btn-primary {
+  margin-bottom: 28px;
+}
+
+span.badge.bg-primary {
+  float: left;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 5px;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  position: fixed;
+  z-index: 9;
+  width: 100%;
+}
+.matha {
+  padding-top: 58px;
+}
+.matha h3{ text-align: center;}
+#slider{
+  height: 95vh;
+  /* overflow: hidden; */
+}
+#slider .carousel-inner{height: 100%;}
+#slider .carousel-inner .carousel-item{height: 100%;}

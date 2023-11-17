@@ -1,0 +1,74 @@
+header{
+
+}
+div#navbarNav {
+    background-color: #32a852;
+}
+a.navbar-brand {
+    background-color: #32a852;
+}
+
+.navbar-collapse{
+	justify-content: right;
+}
+
+
+
+
+.h4, h4 {
+    font-size: 3.5rem;
+}
+h4 {
+    text-align: center;
+    background-color: #32a852;
+    padding: 6px;
+}
+
+img.plan {
+    height: 357px;
+    margin-left: 26px;
+    border: solid;
+    box-shadow: 0 9px 18px rgb(23 24 24 / 83%);
+}
+
+p.text {
+	font-style: italic;
+
+    margin-left: 48px;
+    margin-right: 34px;
+    padding-top: 64px;
+    font-size: 26px;
+    text-align: justify;
+}
+.rd{
+	display: flex;
+}
+
+img.hotel {
+    height: 280px;
+    margin-left: 26px;
+    border: solid;
+    box-shadow: 0 9px 18px rgb(23 24 24 / 83%);
+        margin-bottom: 25px;
+}
+
+p.text-1{
+	font-style: italic;
+    margin-left: 48px;
+    margin-right: 34px;
+    padding-top: 64px;
+    font-size: 22px;
+    text-align: justify;
+}
+.rdx{
+	display: flex;
+}
+.seab {
+    padding-top: 38px;
+}
+
+form {
+    border: solid;
+    padding: 38px;
+    background-color: beige;
+}
